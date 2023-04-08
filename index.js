@@ -12,40 +12,40 @@ function Validate() {
   
       switch (month) {
         case 1:
-          message = 'One';
+          message = 'RAM';
           break;
         case 2:
-          message = 'Two';
+          message = 'ROM';
           break;
         case 3:
-          message = 'Three';
+          message = 'Harddisk';
           break;
         case 4:
-          message = 'Four';
+          message = 'Mouse';
           break;
         case 5:
-          message = 'Five';
+          message = 'Keyboard';
           break;
         case 6:
-          message = 'Six';
+          message = 'Motherboard';
           break;
         case 7:
-          message = 'Seven';
+          message = 'Harddrive';
           break;
         case 8:
-          message = 'Eight';
+          message = 'Monitor';
           break;
         case 9:
-          message = 'Nine';
+          message = 'CPU';
           break;
         case 10:
-          message = 'Ten';
+          message = 'NIC';
           break;
         case 11:
-          message = 'Eleven';
+          message = 'PSU';
           break;
         case 12:
-          message = 'Twelve';
+          message = 'Video card';
           break;
         default:
           message = 'we are done';
