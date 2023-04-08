@@ -1,6 +1,6 @@
 function Validate() {
     var foam = document.querySelector('.foam');
-    foam.style.animationPlayState = 'paused';
+  
   
     var button = document.getElementById('button');
     button.addEventListener('click', function() {
